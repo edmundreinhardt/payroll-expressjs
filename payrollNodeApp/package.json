@@ -1,0 +1,8 @@
+{
+  "name": "Payroll File Maintenance",
+  "version": "0.0.1",
+  "description": "Maintain payroll database files for employees, reasons and projects",
+  "scripts": {
+   	"start": "node app.js"
+  }
+}
