@@ -1,11 +1,12 @@
 
 /**
- * Generated Node.js application that can run on IBM Bluemix
+ * Generated Node.js application that can run on IBM i
  */
 
+/*eslint-env node */
 var http = require("http");
 
-var appport = process.env.VCAP_APP_PORT || 8888;
+var appport = 8888;
 
 http.createServer(function(request, response) {
 
