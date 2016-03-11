@@ -1,8 +1,20 @@
 {
-  "name": "Payroll File Maintenance",
-  "version": "0.0.1",
-  "description": "Maintain payroll database files for employees, reasons and projects",
+  "name": "payroll-node",
+  "version": "1.0.0",
+  "description": "node.js front end to payroll DB maintenance",
+  "main": "app.js",
   "scripts": {
    	"start": "node app.js"
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmundreinhardt/payroll.git"
+  },
+  "author": "Edmund Reinhardt",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/edmundreinhardt/payroll/issues"
+  },
+  "homepage": "https://github.com/edmundreinhardt/payroll#readme"
 }
