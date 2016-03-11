@@ -4,7 +4,10 @@
   "description": "node.js front end to payroll DB maintenance",
   "main": "app.js",
   "scripts": {
+<<<<<<< HEAD
    	"start": "node app.js"
+=======
+>>>>>>> a50d7fe07f4c050ae3f157201ddf0769c2680118
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
